@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "name": "Genius",
+    "role": "RD",
+    "emailAddr": "RD@test",
+    "pwd": "1234"
+  },
+  {
+    "id": 1,
+    "name": "Verifier",
+    "role": "QA",
+    "emailAddr": "QA@test",
+    "pwd": "4321"
+  }
+]
